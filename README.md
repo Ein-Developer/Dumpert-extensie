@@ -8,8 +8,6 @@ Mocht je nog verbeteringen hebben, maak dan een PR aan dit is ook GRATIS!
 
 Binnenkort probeer ik de extensie nog te publiceren in de Chromestore.
 
-Laatste versie 0.1.0
-
 # How to install
 * Download de laatste release [hier](https://github.com/Ein-Developer/Dumpert-extensie/releases/latest).
 * Pak het ZIP bestand uit, en ga naar chrome toe.
