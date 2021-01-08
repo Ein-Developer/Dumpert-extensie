@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Dumpert legacy requursels generator",
+  "version": "0.1.0",
+  "description": "Dumpert requursels generator",
+  "permissions": [
+    "activeTab",
+	"https://legacy.dumpert.nl/mediabase/*"
+  ],
+  "content_scripts": [{
+	"css": ["dumpertcomments.css"],
+    "js": ["jquery-3.5.1.min.js","functions.js","content.js"],
+    "matches": ["https://legacy.dumpert.nl/mediabase/*"]
+  }],
+  "background":
+    {
+        "scripts": ["jquery-3.5.1.min.js"]
+    },
+	"icons": {
+		"128": "favicon.png"
+	}
+}
