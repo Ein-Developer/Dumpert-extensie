@@ -11,7 +11,7 @@ Binnenkort probeer ik de extensie nog te publiceren in de Chromestore.
 Laatste versie 0.1.0
 
 # How to install
-* Download de laatste release [hier] ().
+* Download de laatste release [hier](https://github.com/Ein-Developer/Dumpert-extensie/releases/latest).
 * Pak het ZIP bestand uit, en ga naar chrome toe.
 * Voer het volgende in de URL balk van Chrome: chrome://extensions/
 * Zet daarna Developer mode aan, en sleep de Dumpert-extensie map naar chrome.
